@@ -1,5 +1,5 @@
 - 👾 Hi, I'm Nikita Radzevicius
-- 🎓 2nd Year Comp Sci student at Maynooth University
+- 🎓 3rd Year Comp Sci student at Maynooth University
 - 💻 Interested in game dev, UI & UX, and some backend stuff
 
 <!---
